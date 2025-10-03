@@ -1,5 +1,6 @@
 # MINKWIC2025
 A demo repository for MINKWIC 2025 workshop
+Joni Adkins
 
 ## GitHub and Markdown Guides
 Dr. Kate Cooper's curated list of [GitHub resources](https://github.com/kmcooper/MINKWIC2023/blob/main/documents/guides.md)
